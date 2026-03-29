@@ -2,6 +2,7 @@
 name: zip
 version: 1.0.0
 author: Richard Ng
+license: MIT
 description: "Use this skill whenever the user wants to work with ZIP archive files. This includes: reading or listing contents of .zip files, extracting files from archives, creating new .zip archives from files or directories, inspecting file sizes and compression ratios, extracting specific files or folders from an archive, searching for files inside archives by name or pattern, comparing contents of two archives, adding or removing files from existing archives, password-protecting archives, and batch-extracting multiple archives. Trigger when the user mentions '.zip', 'archive', 'compress', 'extract', 'unzip', or references a ZIP file by name or path. Do NOT use for .tar, .gz, .7z, .rar, or other non-ZIP archive formats unless converting to/from ZIP."
 ---
 
